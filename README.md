@@ -1,9 +1,10 @@
-# YOLOv3 using Python (3.9) cv
+# YOLOv3 using Python (3.9) opencv-python
 
 **Overview: ** This was a fun little project to implement YOLOv3 using Python cv.
 
 **You need the following:**
 - Camera connected to your PC, such as a webcam.
+- install numpy and opencv-python
 
 **If you would like to use this you will need to download the following:**
 - You need to download the weights for YOLOc3-320 at https://pjreddie.com/darknet/yolo/
